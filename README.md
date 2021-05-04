@@ -1,0 +1,2 @@
+# PythonBilgiler17
+KısaBirHatırlatma
